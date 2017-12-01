@@ -1,1 +1,1 @@
-# animacy-under-causal-constraints
+# Animacy Under Causal Constraints
