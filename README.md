@@ -1,4 +1,4 @@
-# Demo for Perceiving Animacy with Causal Constraints.
+# Demo for Perceiving Animacy with Causal Constraints
 
 ## Exp1_Chasing With Causal Structure
 Example demo in Exp.1 in the study of Perceiving Animacy with Causal Constraints. Motion of the Sheep and the Wolf were constructed from the same hierarchical motion tree. The other two objects were distractors.
