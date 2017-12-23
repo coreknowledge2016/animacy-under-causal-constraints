@@ -4,7 +4,7 @@
 Example demo in Exp.1 in the study of Perceiving Animacy with Causal Constraints. Motion of the Sheep and the Wolf were constructed from the same hierarchical motion tree. The other two objects were distractors.
 https://youtu.be/CQFZ2u8f4vU
 
-## Exp1_ChasingWithoutCausalStructure
+## Exp1_Chasing Without Causal Structure
 Example demo in Exp.1 in the study of Perceiving Animacy with Causal Constraints. Motion of the Sheep and the Wolf were constructed independently but kept same deviation. The other two objects were distractors.
 https://youtu.be/SOldJguDzkI
 
